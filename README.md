@@ -1,3 +1,9 @@
+## 5/6/2017
+- Homepage made live on domain.
+- Generator page made live on domain.
+- Security headers implemented in Apache.
+- SSL forced / Users redirected if using non-https.
+
 ## 3/6/2017
 - First iteration of homepage created, currently not responsive
 
